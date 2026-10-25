@@ -1,0 +1,6 @@
+{
+  "name": "Pusaka Khatulistiwa - Budaya & Film Kalbar",
+  "description": "Aplikasi eksplorasi seluruh destinasi budaya, situs warisan leluhur, dan film dokumenter kebudayaan 14 Kabupaten & Kota di Kalimantan Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
